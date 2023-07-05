@@ -8,8 +8,8 @@ spec:
   type: ClusterIP
   ports:
     - protocol: TCP
-      port: 80
-      targetPort: 80
-      name: 80-tcp
+      port: 6000
+      targetPort: 6000
+      name: 6000-tcp
   selector:
     app: pipelines-dotnetcore-api
