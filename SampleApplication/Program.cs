@@ -28,5 +28,5 @@ if (app.Environment.IsDevelopment())
 }
 else
 {
-    app.Run("http://127.0.0.1:6001");
+    app.Run("http://0.0.0.0:6001");
 }
