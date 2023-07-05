@@ -1,0 +1,12 @@
+---
+apiVersion: triggers.tekton.dev/v1alpha1
+kind: EventListener
+metadata:
+  name: dotnetcore-api
+spec:
+  serviceAccountName: pipeline
+  triggers:
+  - bindings:
+    - ref: dotnetcore-api
+    template:
+      ref: dotnetcore-api

@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: pipelines-dotnetcore-api
+  name: pipelines-dotnetcore-api
+spec:
+  type: ClusterIP
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+      name: 80-tcp
+  selector:
+    app: pipelines-dotnetcore-api

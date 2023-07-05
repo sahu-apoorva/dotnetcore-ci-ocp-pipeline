@@ -1,0 +1,12 @@
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/SampleApplication
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/appsettings.Development.json
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/appsettings.json
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/SampleApplication.dll
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/SampleApplication.deps.json
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/SampleApplication.runtimeconfig.json
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/SampleApplication.pdb
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/Microsoft.AspNetCore.OpenApi.dll
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/Microsoft.OpenApi.dll
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saif/Desktop/dotnetcore-ci-ocp-pipeline/SampleApplication/SampleApplication/out/Swashbuckle.AspNetCore.SwaggerUI.dll
