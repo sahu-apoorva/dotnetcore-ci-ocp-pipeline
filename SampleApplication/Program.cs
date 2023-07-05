@@ -22,5 +22,11 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
-
+if (app.Environment.IsDevelopment())
+{
+    app.Run();
+}
+else
+{
+    app.Run("http://127.0.0.1:6001");
+}
